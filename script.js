@@ -249,6 +249,7 @@ console.log(diff_months(dt1, dt2));
 // console.log(diff_years(dt1, dt2));
 // 3
 
+
 function diff_years(dt2, dt1) 
  {
 
