@@ -74,7 +74,6 @@ console.log(timezone_offset_in_seconds(dt));
 // "Sat Nov 02 2024 00:00:00 GMT+0530 (India Standard Time)"
 
 
-
 function add_years(dt,n) 
  {
  return new Date(dt.setFullYear(dt.getFullYear() + n));      
