@@ -286,7 +286,6 @@ console.log(startOfWeek(dt).toString());
 
 
 
-
 // Write a JavaScript function to get the week end date.  
 
 function endOfWeek(date)
