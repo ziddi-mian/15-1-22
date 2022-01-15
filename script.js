@@ -143,8 +143,6 @@ dt2 = new Date(2014,10,3);
 console.log(diff_minutes(dt1, dt2));
 
 
-
-
 // Write a JavaScript function to get time differences in hours between two dates.   
 // Test Data :
 // dt1 = new Date("October 13, 2014 08:11:00");
