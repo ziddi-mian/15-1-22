@@ -43,7 +43,6 @@ function diff_to_GMT(dt)
 
 dt = new Date(); 
 console.log(diff_to_GMT(dt)); 
-
 dt = new Date(1989, 10, 1); 
 console.log(diff_to_GMT(dt));
 
