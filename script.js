@@ -86,8 +86,6 @@ dt = new Date(2014,10,2);
 console.log(add_years(dt, 10).toString());
 
 
-
-
 // Write a JavaScript function to add specified weeks to a date.   
 // Test Data :
 // dt = new Date(2014,10,2);
