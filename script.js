@@ -110,8 +110,6 @@ console.log(add_weeks(dt, 10).toString());
 // Output :
 // "Wed Sep 02 2015 00:00:00 GMT+0530 (India Standard Time)"
 
-
-
 function add_months(dt, n) 
  {
 
