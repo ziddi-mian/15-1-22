@@ -26,7 +26,6 @@ return (dt.getTimezoneOffset() == dst) | 0;
 }
 dt = new Date(); 
 console.log(daylights_savings(dt)); 
-
 dt = new Date(1989, 10, 1); 
 console.log(daylights_savings(dt));
 
