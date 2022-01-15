@@ -139,7 +139,6 @@ function diff_minutes(dt2, dt1)
  }
 
 dt1 = new Date(2014,10,2);
-
 dt2 = new Date(2014,10,3);
 console.log(diff_minutes(dt1, dt2));
 
