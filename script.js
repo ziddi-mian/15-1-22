@@ -24,8 +24,6 @@ function daylights_savings(dt)
          }
 return (dt.getTimezoneOffset() == dst) | 0;
 }
-
-
 dt = new Date(); 
 console.log(daylights_savings(dt)); 
 
