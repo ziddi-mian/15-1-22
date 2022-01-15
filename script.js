@@ -296,7 +296,6 @@ function endOfWeek(date)
     return new Date(date.setDate(lastday));
  
   }
-
 dt = new Date(); 
 
 console.log(endOfWeek(dt).toString());
