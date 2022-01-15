@@ -93,8 +93,6 @@ console.log(add_years(dt, 10).toString());
 // Output :
 // "Sun Jan 11 2015 00:00:00 GMT+0530 (India Standard Time)"
 
-
-
 function add_weeks(dt, n) 
  {
  return new Date(dt.setDate(dt.getDate() + (n * 7)));      
