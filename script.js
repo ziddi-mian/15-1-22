@@ -36,7 +36,6 @@ console.log(daylights_savings(dt));
 // console.log(diff_to_GMT(dt));
 // "+05.500"
 
-
 function diff_to_GMT(dt) 
 { 
    return (-dt.getTimezoneOffset() < 0 ? '-' : '+') + (Math.abs(dt.getTimezoneOffset() / 60) < 10 ? '0' : '') + (Math.abs(dt.getTimezoneOffset() / 60)) + '00';
