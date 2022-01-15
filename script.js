@@ -199,7 +199,6 @@ console.log(diff_days(dt1, dt2));
 // console.log(diff_weeks(dt1, dt2));
 // 18
 
-
 function diff_weeks(dt2, dt1) 
  {
 
