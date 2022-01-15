@@ -230,7 +230,6 @@ function diff_months(dt2, dt1)
   return Math.abs(Math.round(diff));
   
  }
-
 dt1 = new Date(2014,10,2);
 dt2 = new Date(2014,10,11);
 console.log(diff_months(dt1, dt2));
