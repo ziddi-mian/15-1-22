@@ -46,8 +46,6 @@ console.log(diff_to_GMT(dt));
 dt = new Date(1989, 10, 1); 
 console.log(diff_to_GMT(dt));
 
-
-
 // Write a JavaScript function to get timezone offset in seconds.   
 // Note : The offset for timezones west of UTC is always negative, and for those east of UTC is always positive.
 // Test Data :
