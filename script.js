@@ -233,7 +233,6 @@ function diff_months(dt2, dt1)
 dt1 = new Date(2014,10,2);
 dt2 = new Date(2014,10,11);
 console.log(diff_months(dt1, dt2));
-
 dt1 = new Date("June 13, 2014 08:11:00");
 dt2 = new Date("October 19, 2014 11:13:00");
 console.log(diff_months(dt1, dt2));
