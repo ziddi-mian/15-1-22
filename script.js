@@ -122,7 +122,6 @@ dt = new Date(2014,10,2);
 console.log(add_months(dt, 10).toString());
 
 
-
 // Write a JavaScript function to get time differences in minutes between two dates.   
 // Test Data :
 // dt1 = new Date("October 13, 2014 11:11:00");
